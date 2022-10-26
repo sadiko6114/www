@@ -1,6 +1,9 @@
-p{
-    color:red;
+div p{
+    color: red;
 }
-h1{
-    color: gold;
+h1,p{
+    color: blue;
+}
+h2,hover{
+    color: pink;
 }
