@@ -1,9 +1,7 @@
-div p{
-    color: red;
-}
-h1,p{
-    color: blue;
-}
-h2,hover{
-    color: pink;
+#css{
+   color: #ccc;
+   /*background-color: red;*/
+  /* font-size: 5px;*/
+  /*text-align: right;*/
+  font-weight: bold;
 }
